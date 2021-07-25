@@ -2,16 +2,13 @@ using System.Collections.Generic;
 
 namespace CadastroSeries.Interfaces
 {
-    public interface IRepositorio
+    public interface IRepositorio<T>
     {
-         public interface IRepositorio<T>
-         {
-             List<T> Lista();
-             T RetornaPorId(int id);
-             void Insere (T entidade);
-             void Exclui(int id);
-             void Atualiza(int id, T entidade);
-             int ProximoId();
-         }
+        List<T> Lista();
+        T RetornaPorId(int id);
+        void Insere (T entidade);
+        void Exclui(int id);
+        void Atualiza(int id, T entidade);
+        int ProximoId();
     }
 }
