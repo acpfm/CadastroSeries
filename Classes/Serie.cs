@@ -23,11 +23,22 @@ namespace CadastroSeries
         public override string ToString()
         {
             string retorno = "";
+            retorno += "----------------------------------------------------" + Environment.NewLine;
+            retorno += "---------------- FICHA TÉCNICA ---------------------" + Environment.NewLine;
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano: " + this.Ano + Environment.NewLine;
-            retorno += "Excluído: " + this.Excluido;
+            
+            if(this.Excluido)
+            {
+                retorno += "Status: Indisponível";
+            }
+            else
+            {
+                retorno += "Status: Disponível";
+            }
+            
             return retorno;
         }
 
