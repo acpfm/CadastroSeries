@@ -27,6 +27,7 @@ namespace CadastroSeries
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano: " + this.Ano + Environment.NewLine;
+            retorno += "Excluído: " + this.Excluido;
             return retorno;
         }
 

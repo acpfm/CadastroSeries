@@ -1,0 +1,13 @@
+D:\ProjectsGit\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.exe
+D:\ProjectsGit\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.deps.json
+D:\ProjectsGit\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.json
+D:\ProjectsGit\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.dev.json
+D:\ProjectsGit\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.dll
+D:\ProjectsGit\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.pdb
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csprojAssemblyReference.cache
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfoInputs.cache
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfo.cs
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.CoreCompileInputs.cache
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.dll
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.pdb
+D:\ProjectsGit\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.genruntimeconfig.cache
